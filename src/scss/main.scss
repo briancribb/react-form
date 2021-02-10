@@ -1,0 +1,9 @@
+@import 'more-main';
+$my-color:red;
+div {
+	color:red;
+	a {
+		color:blue;
+		border: 1px solid $my-color;
+	}
+}
