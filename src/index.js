@@ -1,4 +1,4 @@
-import someThing from "./extra.js";
+import someThing from "./scripts/extra.js";
 
 let hello = "Hello";
 var world = "World";
